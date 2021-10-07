@@ -24,10 +24,3 @@ for letras in texto:
       contador_caracteres=contador_caracteres+1
 
 print("Frase resultante: ",palabra_final)
-
-
-
-
-
-
-  
